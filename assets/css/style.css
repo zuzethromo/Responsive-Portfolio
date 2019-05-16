@@ -1,0 +1,266 @@
+body {
+    background-image: url("../images/pink_rice.png");
+}
+
+.Me {
+    width: auto;
+    height: 200px;
+    float: left;
+    padding-left: 10px;
+    padding-right: 20px;
+
+}
+
+.P1 {
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+
+.P3 {
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+ 
+.P4 {
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+
+.P5 {
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+ 
+.P6 {
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 75%;
+    padding-left: 10px;
+    position: relative;
+}
+
+.text3 {
+    position: absolute;
+    top: 125px;
+    left: 20px;
+    background-color: rgb(110, 108, 108);
+    color: white;
+    width: 270px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.text4 {
+    position: absolute;
+    top: 125px;
+    left: 324px;
+    background-color: rgb(110, 108, 108);
+    color: white;
+    width: 270px;
+    box-sizing: border-box;
+    text-align: center;  
+    font-family: 'Times New Roman';
+}
+
+.text5 {
+    position: absolute;
+    top: 325px;
+    left: 20px;
+    background-color: rgb(110, 108, 108);
+    color: white;
+    width: 270px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.text6 {
+    position: absolute;
+    top: 325px;
+    left: 324px;
+    background-color: rgb(110, 108, 108);
+    color: white;
+    width: 270px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.text1 {
+    position: absolute;
+    top: 535px;
+    left: 20px;
+    background-color: rgb(110, 108, 108);
+    color: white;
+    width: 270px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.header {
+    overflow: hidden;
+    padding: 0px;
+    padding-left: 95px;
+    background-color: white;
+}
+
+.footer {
+    overflow: hidden;
+    background-color: rgb(110, 108, 108);
+    position: sticky;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    color: white;
+    border-top: 8px;
+}
+
+.ZR {
+    float: left;
+    background-color: rgb(110, 108, 108);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    width: 275px;
+    margin: auto;
+}
+
+.contact {
+    float: right;
+    display: block;
+    padding: 5px;
+    padding-top: 35px;
+    padding-right: 125px;
+    background-color: white;
+    color: rgb(110, 108, 108);
+    font-family: 'Times New Roman';
+}
+
+.about {
+    float: right;
+    display: block;
+    padding: 5px;
+    padding-top: 35px;
+    background-color: white;
+    color: rgb(110, 108, 108);
+    font-family: 'Times New Roman';
+}
+
+.portfolio {
+    float: right;
+    display: block;
+    padding: 5px;
+    padding-top: 35px;
+    background-color: white;
+    color: rgb(110, 108, 108);
+    font-family: 'Times New Roman';
+}
+
+.content {
+    background-color: white;
+    display: block;
+    width: 960px;      
+    position: relative;
+    top: 15px;
+    left: 200px;
+    margin: 70px;
+}
+
+h2 {
+    padding: 10px;
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    color: rgb(110, 108, 108);
+}
+
+h3 {
+    padding: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    color: rgb(110, 108, 108);
+}
+
+h4 {
+    padding: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    color: rgb(110, 108, 108);
+}
+
+p {
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    color: rgb(100, 98, 98);
+}
+
+.form {
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    color: rgb(100, 98, 98);
+}
+
+.box {
+    width: 97.5%;
+    box-sizing: border-box;
+    resize: vertical;
+    padding: 8px;  
+}
+
+.msg {
+    width: 97.5%;
+    box-sizing: border-box;
+    resize: vertical;
+    padding: 85px;
+}
+
+button {
+    background-color: rgb(100, 98, 98);
+    color: white;
+    box-sizing: border-box;
+    width: 10%;
+    padding:10px;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+}
+
+.content::after {
+    content: "";
+    clear: both;
+    display: block;
+}
